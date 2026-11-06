@@ -1,0 +1,8 @@
+# Model weights (download separately)
+*.safetensors
+
+# Build outputs
+build/
+*.o
+*.out
+*.exe
